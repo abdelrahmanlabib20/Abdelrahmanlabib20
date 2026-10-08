@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi 👋 I'm Abdelrahman
 
-<!--
-**abdelrahmanlabib20/Abdelrahmanlabib20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+🤖 Interested in AI & Data Science
+💻 Currently learning Java, Python, SQL & Machine Learning
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+Java • Python • SQL • Git • GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+• Energy Tracker — Java OOP
+• [Your next project]
+
+### 🎯 Goals
+Building real-world projects and developing my skills in AI & Data Science.
